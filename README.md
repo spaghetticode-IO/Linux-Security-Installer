@@ -17,7 +17,7 @@ A comprehensive script to install security and privacy tools for Ubuntu/Debian s
 ## Usage:
 1. install
 ```
-git clone https://github.com/one-two-3-four/Linux-Security-Installer/
+git clone https://github.com/spaghetticode-IO/Linux-Security-Installer/
 ```
 2. Enter Dir
 ```
@@ -25,12 +25,12 @@ cd Linux-Security-Installer
 ```
 3. mod
 ```
-chmod +x ins.sh
+chmod +x install.sh
 ```
 
 4. Run
 ```
-./ins.sh
+./install.sh
 ```
 
 ---
